@@ -45,7 +45,7 @@ public class Main {
 					wordsInSentences.put(word, wordsInSentences.get(word) + 1);
 		        else
 		        	wordsInSentences.put(word, 1);
-    		}
+    			}
 		}
 	}
 }
